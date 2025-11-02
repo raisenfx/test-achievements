@@ -1,2 +1,2 @@
 # test-achievements
-bu benim ilk deneme repom 🚀
+just repo 
